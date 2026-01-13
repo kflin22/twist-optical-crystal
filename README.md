@@ -1,3 +1,5 @@
+**For questions or discussions:** kflin777@gmail.com
+
 # lightness-of-multilayer-BN
  lightness
 twisted BN Second Harmonic Generation (SHG) Formula:
